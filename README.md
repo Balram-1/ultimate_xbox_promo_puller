@@ -15,3 +15,4 @@ host:port
 🛠️ Description
 This tool is designed to pull Xbox accounts and extract valid 3-month Discord Nitro promo codes (if available). It supports combo-based scanning and proxy rotation for efficiency.
 
+![image](https://github.com/user-attachments/assets/10b3f4a9-22b1-40f1-9cef-495a9b143337)
