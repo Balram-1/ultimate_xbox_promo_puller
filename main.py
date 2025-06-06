@@ -2,6 +2,7 @@ import requests
 import sys
 import threading
 import base64
+import os
 import tls_client
 import time
 import uuid
