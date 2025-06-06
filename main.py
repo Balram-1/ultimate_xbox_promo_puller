@@ -29,7 +29,7 @@ ASCII_ART = r"""
 ░░▒░ ░ ░ ░ ░ ░  ░  ░     ▒ ░░  ░      ░  ▒   ▒▒ ░   ░     ░ ░  ░
  ░░░ ░ ░   ░ ░   ░       ▒ ░░      ░     ░   ▒    ░         ░
    ░         ░  ░        ░         ░         ░  ░           ░  ░
-      Made by balramog
+      Made by balrampreet1
 """
 
 BANNER = f"""
